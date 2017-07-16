@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";\
+
+.container{
+	width:80%;
+	margin:auto;
+	position:relative;
+}
+
+.mRight-20{
+	margin-right:20px
+}
